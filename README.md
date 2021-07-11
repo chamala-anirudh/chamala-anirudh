@@ -1,6 +1,6 @@
 ### Hi there 👋
--🌱 I’m currently learning Full Stack Web Development
--🔭 I’m currently working on Animations and backend with Node.js
+🌱 I’m currently learning Full Stack Web Development"\n"
+🔭 I’m currently working on Animations and backend with Node.js
 
 <!--
 **chamala-anirudh/chamala-anirudh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
