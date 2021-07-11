@@ -1,5 +1,5 @@
 ### Hi there 👋
-🌱 I’m currently learning Full Stack Web Development"\n"
+🌱 I’m currently learning Full Stack Web Development
 🔭 I’m currently working on Animations and backend with Node.js
 
 <!--
